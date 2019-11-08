@@ -1,6 +1,6 @@
 ---
 
-layout: full-width
+layout: col-sidebar
 title: Reviewing Code for Cross-Site Request Forgery Issues
 permalink: /reviewing-code-for-csrf-issues
 
