@@ -1,3 +1,11 @@
+---
+
+layout: col-sidebar
+title: Reviewing Code for Cross-Site Request Forgery Issues
+permalink: /reviewing-code-for-csrf-issues
+
+---
+
 ## Overview
 
 [CSRF](CSRF "wikilink") is an attack which forces an end user to execute
