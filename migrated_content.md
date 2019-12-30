@@ -69,7 +69,7 @@ type: documentation
 <h2 id="related_projects">Related Projects</h2>
 <p>OWASP Testing Guide <a href="https://www.owasp.org/index.php/OWASP_Testing_Project">4</a></p></td>
 <ul>
-<li><a href="https://www.owasp.org/index.php/File:OWASP_Code_Review_Guide_v2.pdf">Code Review Guide 2.0</a></li>
+<li><a href="/www-pdf-archive/File:OWASP_Code_Review_Guide_v2.pdf">Code Review Guide 2.0</a></li>
 </ul>
 <h2 id="in_print">In Print</h2>
 <p>Code Review Guide 2.0 will be available in Lulu in the near future.</p>
@@ -89,6 +89,6 @@ Dublin Founder and Chapter Lead.
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
