@@ -1,11 +1,7 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+### Project Information
+* Lab Project
+* Documentation
+* 2.0
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+### Downloads
+* [Current PDF Version]("/www-pdf-archive/File:OWASP_Code_Review_Guide_v2.pdf")
