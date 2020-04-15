@@ -9,7 +9,7 @@ auto-migrated: 1
 
 ---
 
-The current PDF version can be found [here]("/www-pdf-archive/File:OWASP_Code_Review_Guide_v2.pdf")
+The current PDF version can be found [here](/www-pdf-archive/File:OWASP_Code_Review_Guide_v2.pdf)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
