@@ -1,0 +1,23 @@
+- title: OWASP Code Review Guide 2.0
+  tags: Code Review Guide 2.0
+  author:
+  contributors:
+  url: current/
+  chapters:
+    - title: Foreword
+      pages:
+        - title: Foreward & Acknowledgements
+          url: current/
+    - title: Chapter 1
+      pages:
+        - title: Introduction
+          url: current/chapter_001/introduction/
+        - title: How To Use the Code Review Guide
+          url: current/chapter_001/how-to/
+    - title: Chapter 2
+      pages:
+        - title: Secure Code Review
+          url: current/chapter_001/secure-code-review/
+        - title: Methodology
+          url: current/chapter_001/methodology/
+    
