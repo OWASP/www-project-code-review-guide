@@ -1,0 +1,29 @@
+.leader-header {
+    display:table;
+    width:100%;
+}
+
+.leader-pic {
+    float:left;
+    text-align:center;
+    height:300px;
+}
+
+.ack-div {
+    display:block;
+    width:100%;
+}
+
+.contributors {
+    display:grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size:smaller;
+}
+
+
+
+@media screen and (max-width: 400px) {
+    .contributors {
+        grid-template-columns: 1fr;
+    }
+}
