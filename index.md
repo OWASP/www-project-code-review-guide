@@ -5,49 +5,20 @@ title: OWASP Code Review Guide
 tags: Code Review Guide
 level: 3
 type: documentation
-auto-migrated: 1
 
 ---
 
-The current PDF version can be found [here](/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
+[![OWASP Flagship](https://img.shields.io/badge/owasp-lab-yellow.svg)](https://owasp.org/projects/#all-projects)
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The current (July 2017) PDF version can be found [here](assets/OWASP_Code_Review_Guide_v2.pdf)
 
-{front matter for this file}
+OWASP Code Review Guide is a technical book written for those responsible for code reviews (management, developers, security professionals). The primarily focus of this book has been divided into two main sections. Section one is the "why and how of code reviews" and section two focuses on the "types of vulnerabilities and how to identify throughout the review". While security scanners are improving every day the need for manual security code reviews still needs to have a prominent place in organizations' SDLC (Secure Development Life Cycle) that desires good secure code in production.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Chapters in the second section are mostly based on the popular OWASP 2013 top 10. Here you will find most of the code examples for both on "what not to do" and on "what to do". A word of caution on code examples; Perl is famous for its saying that there are 10,000 ways to do one thing. The same is true for C#, PHP, and Java or any other computer language. Now add in "Object-Oriented Programming" and if we are using design patterns or even what designs patterns are being used and sample code becomes very “iffy” in what to write. We tried to keep the sample code so code reviewers can see red flags and not “do it my way or else”.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+The last section is the appendix. Here we have content like code reviewer check list, etc. of items that really don't flow in book form but needed to be included to make the code review guide complete. 
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Licensing
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+OWASP Code Review Guide is free to use. It is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/), so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
