@@ -8,7 +8,7 @@ type: documentation
 
 ---
 
-[![OWASP Flagship](https://img.shields.io/badge/owasp-lab-yellow.svg)](https://owasp.org/projects/#all-projects)
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab-yellow.svg)](https://owasp.org/projects/#all-projects)
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 The current (July 2017) PDF version can be found [here](assets/OWASP_Code_Review_Guide_v2.pdf)
