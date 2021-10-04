@@ -11,7 +11,7 @@ type: documentation
 [![OWASP Lab](https://img.shields.io/badge/owasp-lab-yellow.svg)](https://owasp.org/projects/#all-projects)
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The current (July 2017) PDF version can be found [here](assets/OWASP_Code_Review_Guide_v2.pdf)
+The current (July 2017) PDF version can be found [here](assets/OWASP_Code_Review_Guide_v2.pdf).
 
 OWASP Code Review Guide is a technical book written for those responsible for code reviews (management, developers, security professionals). The primarily focus of this book has been divided into two main sections. Section one is the "why and how of code reviews" and section two focuses on the "types of vulnerabilities and how to identify throughout the review". While security scanners are improving every day the need for manual security code reviews still needs to have a prominent place in organizations' SDLC (Secure Development Life Cycle) that desires good secure code in production.
 
