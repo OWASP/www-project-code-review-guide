@@ -32,7 +32,7 @@ Here are a few ways you can help:
 
 You can find us on Slack:
 
-1. Join the OWASP Group Slack with this [invitation link](https://owasp-slack.herokuapp.com/).
+1. Join the OWASP Group Slack with this [invitation link](https://owasp.org/slack/invite).
 2. Join this project's channel #team-code-review
 
 Feel free to ask questions, suggest ideas, or share your best recipes.
