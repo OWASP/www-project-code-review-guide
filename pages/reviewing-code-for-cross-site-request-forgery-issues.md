@@ -145,8 +145,8 @@ session ID, as the user is authenticated already.
 ## Good Patterns and procedures to prevent CSRF
 
 Checking if the request has a valid session cookie is not enough, we
-need check if a unique identifier is sent with every HTTP request sent
-to the application. CSRF requests WON'T have this valid unique
+need to check if a unique identifier is sent with every HTTP request
+sent to the application. CSRF requests WON'T have this valid unique
 identifier. The reason CSRF requests won't have this unique request
 identifier is the unique ID is rendered as a hidden field on the page
 and is appended to the HTTP request once a link/button press is
