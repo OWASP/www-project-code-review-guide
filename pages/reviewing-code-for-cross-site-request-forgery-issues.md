@@ -153,7 +153,7 @@ and is appended to the HTTP request once a link/button press is
 selected. The attacker will have no knowledge of this unique ID, as it
 is random and rendered dynamically per link, per page.
 
-1.  A list is complied prior to delivering the page to the user. The
+1.  A list is compiled prior to delivering the page to the user. The
     list contains all valid unique IDs generated for all links on a
     given page. The unique ID could be derived from a secure random
     generator such as SecureRandom for J2EE. .
