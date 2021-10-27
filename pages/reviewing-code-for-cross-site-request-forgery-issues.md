@@ -161,8 +161,7 @@ is random and rendered dynamically per link, per page.
     prior to being displayed to the user.
 3.  Maintaining a list of unique IDs in the user session, the
     application checks if the unique ID passed with the HTTP request is
-    valid for a given request. if the unique ID passed with the HTTP
-    request is valid for a given request.
+    valid for a given request.
 4.  If the unique ID is not present, terminate the user session and
     display an error to the user.
 
