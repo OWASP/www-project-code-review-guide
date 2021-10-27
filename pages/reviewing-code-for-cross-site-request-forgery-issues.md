@@ -156,7 +156,7 @@ is random and rendered dynamically per link, per page.
 1.  A list is compiled prior to delivering the page to the user. The
     list contains all valid unique IDs generated for all links on a
     given page. The unique ID could be derived from a secure random
-    generator such as SecureRandom for J2EE. .
+    generator such as SecureRandom for J2EE.
 2.  A unique ID is appended to each link/form on the requested page
     prior to being displayed to the user.
 3.  Maintaining a list of unique IDs in the user session, the
