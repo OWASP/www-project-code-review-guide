@@ -2,10 +2,10 @@
 ## Content Planning
 | Chapters/Sections  | Assigned to @handle| Review Date  |  Status |
 |---|---|---|---|
-| Who is this guide for and how to work with it  | @nanzggits  |   |   |
+| Who is this guide for and how to work with it  | [@nanzggits](https://github.com/nanzggits)  |   |   |
 | What is secure code reviewing?  |   |   |   |
 | What's the difference between code reviews and secure code reviews.  |   |   |   |
-| METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  @michaelagreiler |   |   |
+| METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/magreiler) |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |
 | METHODOLOGY: Risk assessment  |   |   |   |
