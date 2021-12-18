@@ -5,7 +5,7 @@
 | Who is this guide for and how to work with it  |   |   |   |
 | What is secure code reviewing?  |   |   |   |
 | What's the difference between code reviews and secure code reviews.  |   |   |   |
-| METHODOLOGY: How can secure code review look like in your organization?   |   |   |   |
+| METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |   |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |
 | METHODOLOGY: Risk assessment  |   |   |   |
