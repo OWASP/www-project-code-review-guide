@@ -4,7 +4,7 @@
 |---|---|---|---|
 | [Who should read this guide?](sections/whoshoulduse.md)   | [@nanzggits](https://github.com/nanzggits)  |   |   |
 | How to use this guide?  |   |   |   |
-| What is secure code reviewing?  |   |   |   |
+| [What is secure code reviewing?](sections/whatisscr.md)  | [@nanzggits](https://github.com/nanzggits)  |   |   |
 | What's the difference between code reviews and secure code reviews.  |   |   |   |
 | METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/magreiler) |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |
