@@ -9,7 +9,7 @@
 | METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/magreiler) |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |
-| METHODOLOGY: Risk assessment  |   |   |   |
+| METHODOLOGY: Risk assessment  |  [@mgreiler]  [@nanzggits](https://github.com/nanzggits) |  21/01/2022 |   |
 | METHODOLOGY: When should a code review take place  |   |   |   |
 | Doing a secure code review  |   |   |   |
 | CHECKLIST: Business Logic & Design |   |   |   |
@@ -21,7 +21,7 @@
 | CHECKLIST: Cryptography  |   |   |   |
 | CHECKLIST: Configuration  |   |   |   |
 | CHECKLIST: Data Management  |   |   |   |
-| CHECKLIST:Web Services   |   |   |   |
+| CHECKLIST: Web Services   |   |   |   |
 | Application threat modeling (assessing risk) on a developer level  |   |   |   |
 | How can automated secure code review complement manual review?  |   |   |   |
 |   |   |   |   |
