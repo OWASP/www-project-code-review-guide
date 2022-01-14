@@ -6,10 +6,10 @@
 | How to use this guide?  |   |   |   |
 | [What is secure code reviewing?](sections/whatisscr.md)  | [@nanzggits](https://github.com/nanzggits)  |   |   |
 | What's the difference between code reviews and secure code reviews.  |   |   |   |
-| METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/magreiler) |   |   |
+| METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/mgreiler) |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |
-| METHODOLOGY: Risk assessment  |  [@mgreiler]  [@nanzggits](https://github.com/nanzggits) |  21/01/2022 |   |
+| METHODOLOGY: Risk assessment  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  21/01/2022 |   |
 | METHODOLOGY: When should a code review take place  |   |   |   |
 | Doing a secure code review  |   |   |   |
 | CHECKLIST: Business Logic & Design |   |   |   |
