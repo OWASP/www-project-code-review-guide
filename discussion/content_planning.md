@@ -2,8 +2,8 @@
 ## Content Planning
 | Chapters/Sections  | Assigned to @handle| Review Date  |  Status |
 |---|---|---|---|
-| Who should read this guide  | [@nanzggits](https://github.com/nanzggits)  |   |   |
-| How to use this guide  |   |   |   |
+| [Who should read this guide?](sections/whoshoulduse.md)   | [@nanzggits](https://github.com/nanzggits)  |   |   |
+| How to use this guide?  |   |   |   |
 | What is secure code reviewing?  |   |   |   |
 | What's the difference between code reviews and secure code reviews.  |   |   |   |
 | METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/magreiler) |   |   |
