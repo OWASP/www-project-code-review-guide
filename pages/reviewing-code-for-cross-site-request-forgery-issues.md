@@ -145,24 +145,23 @@ session ID, as the user is authenticated already.
 ## Good Patterns and procedures to prevent CSRF
 
 Checking if the request has a valid session cookie is not enough, we
-need check if a unique identifier is sent with every HTTP request sent
-to the application. CSRF requests WON'T have this valid unique
+need to check if a unique identifier is sent with every HTTP request
+sent to the application. CSRF requests WON'T have this valid unique
 identifier. The reason CSRF requests won't have this unique request
 identifier is the unique ID is rendered as a hidden field on the page
 and is appended to the HTTP request once a link/button press is
 selected. The attacker will have no knowledge of this unique ID, as it
 is random and rendered dynamically per link, per page.
 
-1.  A list is complied prior to delivering the page to the user. The
+1.  A list is compiled prior to delivering the page to the user. The
     list contains all valid unique IDs generated for all links on a
     given page. The unique ID could be derived from a secure random
-    generator such as SecureRandom for J2EE. .
+    generator such as SecureRandom for J2EE.
 2.  A unique ID is appended to each link/form on the requested page
     prior to being displayed to the user.
 3.  Maintaining a list of unique IDs in the user session, the
     application checks if the unique ID passed with the HTTP request is
-    valid for a given request. if the unique ID passed with the HTTP
-    request is valid for a given request.
+    valid for a given request.
 4.  If the unique ID is not present, terminate the user session and
     display an error to the user.
 
