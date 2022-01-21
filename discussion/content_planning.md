@@ -9,7 +9,7 @@
 | METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/mgreiler) |   |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |   |
-| METHODOLOGY: Threat Modeling |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  21/01/2022 | Reviewed | Replace Risk assesment with Threat modeling |
+| [METHODOLOGY: Threat Modeling](https://github.com/OWASP/www-project-code-review-guide/issues/9) |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  28/01/2022 | In Progress | Replace Risk assesment with Threat modeling |
 | METHODOLOGY: When should a code review take place  |   |   |   |   |
 | Doing a secure code review  |   |   |   |   |
 | CHECKLIST: Business Logic & Design |   |   |   |   |
