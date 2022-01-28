@@ -12,16 +12,16 @@
 | [METHODOLOGY: Threat Modeling](https://github.com/OWASP/www-project-code-review-guide/issues/9) |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  28/01/2022 | On hold | Replace Risk assesment with Threat modeling |
 | METHODOLOGY: When should a code review take place  |   |   |   |   |
 | Doing a secure code review  |   |   |   |   |
-| CHECKLIST: Business Logic & Design |   | 04/02/2022  | In progress  |   |
-| CHECKLIST: Authorization  |   |  04/02/2022  |  In progress |   |
-| CHECKLIST:Authentication  |   |  04/02/2022  |  In progress |   |
-| CHECKLIST: Session Management  |   |  04/02/2022  |  In progress |   |
-| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  |   | 04/02/2022   | In progress  |   |
-| CHECKLIST: Injection   |   |  04/02/2022  |  In progress |   |
-| CHECKLIST: Cryptography  |   |  04/02/2022  |In progress   |   |
-| CHECKLIST: Configuration  |   |  04/02/2022  | In progress  |   |
-| CHECKLIST: Data Management  |   | 04/02/2022   |  In progress |   |
-| CHECKLIST: Web Services   |   |  04/02/2022  | In progress  |   |
-| Application threat modeling (assessing risk) on a developer level  |   | 04/02/2022   | In progress  |   |
-| How can automated secure code review complement manual review?  |   | 04/02/2022   | In progress  |   |
+| CHECKLIST: Business Logic & Design |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) | 04/02/2022  | In progress  |   |
+| CHECKLIST: Authorization  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  04/02/2022  |  In progress |   |
+| CHECKLIST:Authentication  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  04/02/2022  |  In progress |   |
+| CHECKLIST: Session Management  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  04/02/2022  |  In progress |   |
+| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  | [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits)  | 04/02/2022   | In progress  |   |
+| CHECKLIST: Injection   |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  04/02/2022  |  In progress |   |
+| CHECKLIST: Cryptography  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  04/02/2022  |In progress   |   |
+| CHECKLIST: Configuration  | [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits)  |  04/02/2022  | In progress  |   |
+| CHECKLIST: Data Management  |   [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits)| 04/02/2022   |  In progress |   |
+| CHECKLIST: Web Services   |   [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits)|  04/02/2022  | In progress  |   |
+| Application threat modeling (assessing risk) on a developer level  |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) | 04/02/2022   | In progress  |   |
+| How can automated secure code review complement manual review?  |[@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits)   | 04/02/2022   | In progress  |   |
 |   |   |   |   |   |
