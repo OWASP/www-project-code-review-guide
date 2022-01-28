@@ -9,19 +9,19 @@
 | METHODOLOGY: [How can secure code review look like in your organization?](sections/methodology.md)   |  [@mgreiler](https://github.com/mgreiler) |   |   |   |
 | METHODOLOGY: Different size, different methodologies... Best practices.  |   |   |   |   |
 | METHODOLOGY: How rigorous should secure code review be and what are different levels of rigor (maturity)?   |   |   |   |   |
-| [METHODOLOGY: Threat Modeling](https://github.com/OWASP/www-project-code-review-guide/issues/9) |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  28/01/2022 | In Progress | Replace Risk assesment with Threat modeling |
+| [METHODOLOGY: Threat Modeling](https://github.com/OWASP/www-project-code-review-guide/issues/9) |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  28/01/2022 | On hold | Replace Risk assesment with Threat modeling |
 | METHODOLOGY: When should a code review take place  |   |   |   |   |
 | Doing a secure code review  |   |   |   |   |
-| CHECKLIST: Business Logic & Design |   |   |   |   |
-| CHECKLIST: Authorization  |   |   |   |   |
-| CHECKLIST:Authentication  |   |   |   |   |
-| CHECKLIST: Session Management  |   |   |   |   |
-| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  |   |   |   |   |
-| CHECKLIST: Injection   |   |   |   |   |
-| CHECKLIST: Cryptography  |   |   |   |   |
-| CHECKLIST: Configuration  |   |   |   |   |
-| CHECKLIST: Data Management  |   |   |   |   |
-| CHECKLIST: Web Services   |   |   |   |   |
-| Application threat modeling (assessing risk) on a developer level  |   |   |   |   |
-| How can automated secure code review complement manual review?  |   |   |   |   |
+| CHECKLIST: Business Logic & Design |   |   | In progress  |   |
+| CHECKLIST: Authorization  |   |   |  In progress |   |
+| CHECKLIST:Authentication  |   |   |  In progress |   |
+| CHECKLIST: Session Management  |   |   |  In progress |   |
+| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  |   |   | In progress  |   |
+| CHECKLIST: Injection   |   |   |  In progress |   |
+| CHECKLIST: Cryptography  |   |   |In progress   |   |
+| CHECKLIST: Configuration  |   |   | In progress  |   |
+| CHECKLIST: Data Management  |   |   |  In progress |   |
+| CHECKLIST: Web Services   |   |   | In progress  |   |
+| Application threat modeling (assessing risk) on a developer level  |   |   | In progress  |   |
+| How can automated secure code review complement manual review?  |   |   | In progress  |   |
 |   |   |   |   |   |
