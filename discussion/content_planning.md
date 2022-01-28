@@ -12,16 +12,16 @@
 | [METHODOLOGY: Threat Modeling](https://github.com/OWASP/www-project-code-review-guide/issues/9) |  [@mgreiler](https://github.com/mgreiler)  [@nanzggits](https://github.com/nanzggits) |  28/01/2022 | On hold | Replace Risk assesment with Threat modeling |
 | METHODOLOGY: When should a code review take place  |   |   |   |   |
 | Doing a secure code review  |   |   |   |   |
-| CHECKLIST: Business Logic & Design |   |   | In progress  |   |
-| CHECKLIST: Authorization  |   |   |  In progress |   |
-| CHECKLIST:Authentication  |   |   |  In progress |   |
-| CHECKLIST: Session Management  |   |   |  In progress |   |
-| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  |   |   | In progress  |   |
-| CHECKLIST: Injection   |   |   |  In progress |   |
-| CHECKLIST: Cryptography  |   |   |In progress   |   |
-| CHECKLIST: Configuration  |   |   | In progress  |   |
-| CHECKLIST: Data Management  |   |   |  In progress |   |
-| CHECKLIST: Web Services   |   |   | In progress  |   |
-| Application threat modeling (assessing risk) on a developer level  |   |   | In progress  |   |
-| How can automated secure code review complement manual review?  |   |   | In progress  |   |
+| CHECKLIST: Business Logic & Design |   | 04/02/2022  | In progress  |   |
+| CHECKLIST: Authorization  |   |  04/02/2022  |  In progress |   |
+| CHECKLIST:Authentication  |   |  04/02/2022  |  In progress |   |
+| CHECKLIST: Session Management  |   |  04/02/2022  |  In progress |   |
+| CHECKLIST: Auditing (Logging, Error Handling & Monitoring)  |   | 04/02/2022   | In progress  |   |
+| CHECKLIST: Injection   |   |  04/02/2022  |  In progress |   |
+| CHECKLIST: Cryptography  |   |  04/02/2022  |In progress   |   |
+| CHECKLIST: Configuration  |   |  04/02/2022  | In progress  |   |
+| CHECKLIST: Data Management  |   | 04/02/2022   |  In progress |   |
+| CHECKLIST: Web Services   |   |  04/02/2022  | In progress  |   |
+| Application threat modeling (assessing risk) on a developer level  |   | 04/02/2022   | In progress  |   |
+| How can automated secure code review complement manual review?  |   | 04/02/2022   | In progress  |   |
 |   |   |   |   |   |
