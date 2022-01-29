@@ -6,3 +6,6 @@ Thank you!
 
 ## Typos and Grammar issues:
 
+| # | Page Number | Sentence Needs Correction | Comments | 
+| :-: | :-------: | ------------------------- | -------- |
+| 1 | 71 | XSS enables attackers to inject malicious **scripts** into web pages viewed by other users. | The word "scripts" is missing |
