@@ -1,4 +1,5 @@
 ### Leaders
 
+* Cole Cornford
 * Michaela Greiler
-* [Nancy Gariche](mailto:nancy.gariche@owasp.org)
+
