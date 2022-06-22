@@ -8,7 +8,7 @@ permalink: /reviewing-code-for-csrf-issues
 
 ## Overview
 
-[CSRF](CSRF "wikilink") is an attack which forces an end user to execute
+[CSRF](https://owasp.org/www-community/attacks/csrf) is an attack which forces an end user to execute
 unwanted actions on a web application in which he/she is currently
 authenticated. With a little help of social engineering (like sending a
 link via email/chat), an attacker may force the users of a web
@@ -21,13 +21,13 @@ can compromise the entire web application.
 
 ### Description of CSRF Vulnerabilities
 
-See the OWASP article on [CSRF](CSRF "wikilink") Vulnerabilities.
+See the OWASP article on [CSRF](https://owasp.org/www-community/attacks/csrf) Vulnerabilities.
 
 ### How to Test for CSRF Vulnerabilities
 
 See the [OWASP Testing
 Guide](:Category:OWASP_Testing_Project "wikilink") article on how to
-[Test for CSRF](Testing_for_CSRF_\(OWASP-SM-005\) "wikilink")
+[Test for CSRF](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/05-Testing_for_Cross_Site_Request_Forgery.html)
 Vulnerabilities.
 
 ## Introduction
@@ -176,7 +176,7 @@ attack.
 
 ## Related Articles
 
-[CSRF Guard](CSRF_Guard "wikilink")
+[CSRF Guard](https://owasp.org/www-project-csrfguard/)
 
 [Category:OWASP Code Review
 Project](Category:OWASP_Code_Review_Project "wikilink")
